@@ -1,0 +1,74 @@
+[
+	{
+		"title": "Personal Portfolio Website",
+		"year": 2024,
+		"image": "https://vis-society.github.io/labs/2/images/empty.svg",
+		"description": "A multi-page personal site built with semantic HTML and modern CSS, featuring a dynamic project gallery driven by a JSON data file and a dark/light color scheme toggle."
+	},
+	{
+		"title": "Data Structures Library",
+		"year": 2025,
+		"image": "https://vis-society.github.io/labs/2/images/empty.svg",
+		"description": "Implemented core data structures in Java — dynamic array, linked list, stack, queue, and hash map — with unit tests and complexity analysis for each operation."
+	},
+	{
+		"title": "Library Quietness Study",
+		"year": 2024,
+		"image": "https://vis-society.github.io/labs/2/images/empty.svg",
+		"description": "A comprehensive assessment of the study environment and library quietness paradigm. This initiative was undertaken to leverage key learnings around acoustic excellence."
+	},
+	{
+		"title": "Sentiment Analyzer",
+		"year": 2024,
+		"image": "https://vis-society.github.io/labs/2/images/empty.svg",
+		"description": "Trained a Naive Bayes classifier on movie reviews to predict positive or negative sentiment, achieving 84% accuracy on a held-out test set."
+	},
+	{
+		"title": "Persuasive Graphs",
+		"year": 2023,
+		"image": "https://vis-society.github.io/labs/2/images/empty.svg",
+		"description": "I have leveraged data visualization best practices to enhance alignment around key messaging and driving more impactful narrative synergy across the communication environment."
+	},
+	{
+		"title": "Personal Budget Tracker",
+		"year": 2023,
+		"image": "https://vis-society.github.io/labs/2/images/empty.svg",
+		"description": "A single-page app for logging expenses and income, with category breakdowns, a monthly summary chart, and local-storage persistence between sessions."
+	},
+	{
+		"title": "Weather Evaulation Survey",
+		"year": 2023,
+		"image": "https://vis-society.github.io/labs/2/images/empty.svg",
+		"description": "Recommends locations based on user ratings using collaborative filtering, modeled against a synthetic dataset of ten thousand rating records."
+	},
+	{
+		"title": "Weather Dashboard",
+		"year": 2024,
+		"image": "https://vis-society.github.io/labs/2/images/empty.svg",
+		"description": "Pulls current conditions and a seven-day forecast from a public weather API and displays them with dynamic icons that change by condition and time of day."
+	},
+	{
+		"title": "Air Quality Predictor",
+		"year": 2025,
+		"image": "https://vis-society.github.io/labs/2/images/empty.svg",
+		"description": "A mobile app with widgets showing air quality, with changing icons, habit recommendations, and offline support predicted via saved databases."
+	},
+	{
+		"title": "Calendar Scheduler",
+		"year": 2025,
+		"image": "https://vis-society.github.io/labs/2/images/empty.svg",
+		"description": "A constraint-satisfaction solver that generates conflict-free plans from a list of user-estimated time restrictions, with flexible balancing and suggested cutoffs."
+	},
+	{
+		"title": "Image Classifier for Plant Species",
+		"year": 2025,
+		"image": "https://vis-society.github.io/labs/2/images/empty.svg",
+		"description": "A convolutional neural network trained on a labeled leaf dataset to classify plant species, with a small web interface for uploading and testing new images."
+	},
+	{
+		"title": "Group Finder",
+		"year": 2024,
+		"image": "https://vis-society.github.io/labs/2/images/empty.svg",
+		"description": "A lightweight matching tool that pairs users by category, availability, and special preferences, built as a bot on Discord."
+	}
+]
