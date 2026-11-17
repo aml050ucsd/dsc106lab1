@@ -2,7 +2,7 @@
 	{
 		"title": "Boston Bike Traffic Visualizer",
 		"year": 2025,
-		"image": "images/lab7.png",
+		"image": "https://vis-society.github.io/labs/2/images/empty.svg",
 		"description": "An interactive app for visualizing bike traffic in the Boston area, with maps and charts for exploring ridership patterns.",
 		"url": "https://aml050ucsd.github.io/dsc106lab7/"
 	},
