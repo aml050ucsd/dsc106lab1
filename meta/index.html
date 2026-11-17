@@ -11,30 +11,32 @@
 <body>
     <h1>Meta</h1>
 
-    <h2>Summary</h2>
+    <h2>Summary <small>as of <time id="commit-time"></time></small></h2>
     <div id="stats"></div>
 
-    <h2>Commits by time of day</h2>
-    <div id="chart"></div>
+    <div id="scrolly-1">
+        <div id="scatter-story"></div>
 
-    <p id="selection-count">No commits selected</p>
-    <dl id="language-breakdown" class="stats"></dl>
+        <div id="scatter-plot">
+            <h2>Commits by time of day</h2>
+            <div id="chart"></div>
+            <p id="selection-count">No commits selected</p>
+            <dl id="language-breakdown" class="stats"></dl>
+
+            <h2>Files</h2>
+            <dl id="files"></dl>
+        </div>
+    </div>
 
     <dl id="commit-tooltip" class="info tooltip" hidden>
         <dt>Commit</dt>
-        <dd>
-            <a href="" id="commit-link" target="_blank"></a>
-        </dd>
-
+        <dd><a href="" id="commit-link" target="_blank"></a></dd>
         <dt>Date</dt>
         <dd id="commit-date"></dd>
-
         <dt>Time</dt>
-        <dd id="commit-time"></dd>
-
+        <dd id="commit-time-label"></dd>
         <dt>Author</dt>
         <dd id="commit-author"></dd>
-
         <dt>Lines edited</dt>
         <dd id="commit-lines"></dd>
     </dl>
